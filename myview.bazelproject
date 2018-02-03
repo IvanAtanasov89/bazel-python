@@ -1,0 +1,9 @@
+directories:
+  boom
+  .
+
+targets:
+  //boom/...:all
+
+additional_languages:
+  python
